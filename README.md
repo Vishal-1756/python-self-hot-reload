@@ -1,6 +1,6 @@
 # Python Auto-Reload Runner
 
-This is a simple Python script that watches for file changes in your project and automatically restarts the target module (`shivu`) when a change is detected.
+This is a simple Python script that watches for file changes in your project and automatically restarts the target module (`xzy`) when a change is detected.
 
 ## Features
 
